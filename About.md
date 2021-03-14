@@ -57,9 +57,13 @@
 * GoodSmile
 <br/><img src="https://github.com/yeseoLee/SejongALOM/blob/main/img/%EC%95%84%EB%A1%AC%2020%20-%202%20%EC%98%A4%EB%A6%AC%EC%97%94%ED%85%8C%EC%9D%B4%EC%85%98%20(1)_7.png" width="450px" height="300px" title="GoodSmile" alt="GoodSmileProject"></img><br/>
 * Sayjong
+<br/><img src="" width="450px" height="300px" title="GoodSmile" alt="GoodSmileProject"></img><br/>
 * E6-0920
+<br/><img src="" width="450px" height="300px" title="GoodSmile" alt="GoodSmileProject"></img><br/>
 * NMT
+<br/><img src="" width="450px" height="300px" title="GoodSmile" alt="GoodSmileProject"></img><br/>
 * 같이먹자
+<br/><img src="" width="450px" height="300px" title="GoodSmile" alt="GoodSmileProject"></img><br/>
 
 ## 🌱자주 묻는 질문  
 #### 1. 동아리 내에서 대외활동을 나가기도 하나요?  
