@@ -22,7 +22,7 @@
 
 | 참여자 (4) | 1차과제 | 2차과제 | 3차과제 | 4차과제 | 5차과제 |
 | --- | --- | --- | --- | --- | --- |
-| 일론 머스크 |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|
+| 일론 머스크 ||:white_check_mark:||:white_check_mark:|:white_check_mark:|
 | 마크 저커버그 |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|
 | 귀도 반 로섬 |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|
 | 스티브 워즈니악 |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|
