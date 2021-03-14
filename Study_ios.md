@@ -11,7 +11,7 @@
 
 ### 🗓 참여자 출석 현황
 
-| 참여자 (4) | 4/7 | 4/14 | 5/05 | 5/12 | 5/19 | 5/26 | 6/02 | 6/9 |
+| 참여자 (4) | 4/7 | 4/14 | 5/5 | 5/12 | 5/19 | 5/26 | 6/2 | 6/9 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 일론 머스크 |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|
 | 마크 저커버그 |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|
