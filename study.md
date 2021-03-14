@@ -15,16 +15,4 @@
 ## 현재 진행중인 스터디
 * IOS 스터디
 
-## IOS 스터디
-
-### 📝 진행 방식 
-
-### 🗓 참여자 출석 현황
-
-| 참여자 (4) | 1주차 | 2주차 | 3주차 | 4주차 | 5주차 | 6주차 | 7주차 | 8주차 | 참석율 |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| ALOM |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:| 100.00% |
-| 세종 |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:| 100.00% |
-| 아롬 |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:| 100.00% |
-| 새롬 |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:| 100.00% |
 
