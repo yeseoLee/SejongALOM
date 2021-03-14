@@ -36,11 +36,11 @@
 
 ### 스터디 참여 현황
 
-| 참여자 (420) | 1주차 | 2주차 | 3주차 | 4주차 | 5주차 | 6주차 | 7주차 | 8주차 | 참석율 |
+| 참여자 (12) | 1주차 | 2주차 | 3주차 | 4주차 | 5주차 | 6주차 | 7주차 | 8주차 | 참석율 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 0417taehyun |:white_check_mark:|:white_check_mark:|:white_check_mark:||||| | 20.00% |
-| 2323-coded |:white_check_mark:|:white_check_mark:|:white_check_mark:||||| | 20.00% |
-| 372dev |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|||| | 60.00% |
-| 9bini |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|||| | 26.67% |
-| Bik00 |:white_check_mark:|:white_check_mark:|:white_check_mark:||||| | 20.00% |
-| BrandPark |:white_check_mark:|||||:white_check_mark:|| | 13.33% |
+| 아롬 |:white_check_mark:|:white_check_mark:|:white_check_mark:||||| | 20.00% |
+| 아롬이 |:white_check_mark:|:white_check_mark:|:white_check_mark:||||| | 20.00% |
+| 아로미 |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|||| | 60.00% |
+| 알롬 |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|||| | 26.67% |
+| 알롬이 |:white_check_mark:|:white_check_mark:|:white_check_mark:||||| | 20.00% |
+| 알로미 |:white_check_mark:|||||:white_check_mark:|| | 13.33% |
