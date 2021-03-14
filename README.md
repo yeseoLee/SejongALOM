@@ -48,5 +48,5 @@
 | Ahnyezi |:white_check_mark:|||:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:||| | 66.67% |
 | Azderica |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark: | 100.00% |
 | BaeJi77 |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:||||| | 66.67% |
-| Bik00 |:white_check_mark:|:white_check_mark:|:white_check_mark:|||||||||||| | 20.00% |
-| BrandPark |:white_check_mark:||||||||||||:white_check_mark:|| | 13.33% |
+| Bik00 |:white_check_mark:|:white_check_mark:|:white_check_mark:||||| | 20.00% |
+| BrandPark |:white_check_mark:|||||:white_check_mark:|| | 13.33% |
