@@ -29,11 +29,11 @@
 
 ### 스터디 참여 현황
 
-| 참여자 (12) | 1주차 | 2주차 | 3주차 | 4주차 | 5주차 | 6주차 | 7주차 | 8주차 | 참석율 |
+| 참여자 (6) | 1주차 | 2주차 | 3주차 | 4주차 | 5주차 | 6주차 | 7주차 | 8주차 | 참석율 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 김아롬 |:white_check_mark:|:white_check_mark:|:white_check_mark:||||| | 20.00% |
 | 아롬 |:white_check_mark:|:white_check_mark:|:white_check_mark:||||| | 20.00% |
-| 아롬이 |:white_check_mark:|:white_check_mark:|:white_check_mark:||||| | 20.00% |
-| 아로미 |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|||| | 60.00% |
-| 알롬 |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|||| | 26.67% |
-| 알롬이 |:white_check_mark:|:white_check_mark:|:white_check_mark:||||| | 20.00% |
-| 알로미 |:white_check_mark:|||||:white_check_mark:|| | 13.33% |
+| 아롬 |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|||| | 60.00% |
+| 다롬 |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|||| | 26.67% |
+| 새롬 |:white_check_mark:|:white_check_mark:|:white_check_mark:||||| | 20.00% |
+| 롬 |:white_check_mark:|||||:white_check_mark:|| | 13.33% |
