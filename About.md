@@ -57,7 +57,7 @@
 * GoodSmile
 <br/><img src="https://github.com/yeseoLee/SejongALOM/blob/main/img/%EC%95%84%EB%A1%AC%2020%20-%202%20%EC%98%A4%EB%A6%AC%EC%97%94%ED%85%8C%EC%9D%B4%EC%85%98%20(1)_7.png" width="450px" height="300px" title="GoodSmile" alt="GoodSmileProject"></img><br/>
 * Sayjong
-<br/><img src="" width="600px" title="Sayjong" alt="SayjongProject"></img><br/>
+<br/><img src="" width="800px" title="Sayjong" alt="SayjongProject"></img><br/>
 * E6-0920
 <br/><img src="" width="450px" height="300px" title="E60920" alt="E60920Project"></img><br/>
 * NMT
