@@ -24,5 +24,5 @@
 | --- | --- | --- | --- | --- | --- |
 | 일론 머스크 ||:white_check_mark:||:white_check_mark:|:white_check_mark:|
 | 마크 저커버그 |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|
-| 귀도 반 로섬 |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|
+| 귀도 반 로섬 |:white_check_mark:||:white_check_mark:|:white_check_mark:|:white_check_mark:|
 | 스티브 워즈니악 |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|
