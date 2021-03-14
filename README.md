@@ -40,13 +40,9 @@
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 0417taehyun |:white_check_mark:|:white_check_mark:|:white_check_mark:|||||||||||| | 20.00% |
 | 1031nice |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark: | 100.00% |
-| 2323-coded |:white_check_mark:|:white_check_mark:|:white_check_mark:|||||||||||| | 20.00% |
+| 2323-coded |:white_check_mark:|:white_check_mark:|:white_check_mark:||||| | 20.00% |
 | 2yeseul |:white_check_mark:|:white_check_mark:||:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:||:white_check_mark:|:white_check_mark: | 86.67% |
-| 372dev |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|||||| | 60.00% |
-| 9bini |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:||||||||||| | 26.67% |
-| 9m1i9n1 |:white_check_mark:|:white_check_mark:|:white_check_mark:||:white_check_mark:|:white_check_mark:||:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:||:white_check_mark:|:white_check_mark: | 80.00% |
-| Ahnyezi |:white_check_mark:|||:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:||| | 66.67% |
-| Azderica |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark: | 100.00% |
-| BaeJi77 |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:||||| | 66.67% |
+| 372dev |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|||| | 60.00% |
+| 9bini |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|||| | 26.67% |
 | Bik00 |:white_check_mark:|:white_check_mark:|:white_check_mark:||||| | 20.00% |
 | BrandPark |:white_check_mark:|||||:white_check_mark:|| | 13.33% |
