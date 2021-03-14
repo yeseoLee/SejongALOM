@@ -55,6 +55,7 @@
 
 ## 지금까지 진행했던 프로젝트
 * GoodSmile
+![굿스마일](https://github.com/yeseoLee/SejongALOM/blob/main/img/%EC%95%84%EB%A1%AC%2020%20-%202%20%EC%98%A4%EB%A6%AC%EC%97%94%ED%85%8C%EC%9D%B4%EC%85%98%20(1)_7.png)
 * Sayjong
 * E6-0920
 * NMT
