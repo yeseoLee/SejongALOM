@@ -5,6 +5,7 @@
 각자 미리 강의를 듣고와서, 스터디 당일 강의 진도에 해당하는 과제를 해결합니다.  
 
 ### 📚 참고자료
+[Swift - Apple Developer](https://developer.apple.com/kr/swift/)
 
 
 ### 🗓 참여자 출석 현황
