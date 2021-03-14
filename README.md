@@ -37,9 +37,9 @@ fork -> commit -> Pull requests
 
 | 참여자 (6) | 1주차 | 2주차 | 3주차 | 4주차 | 5주차 | 6주차 | 7주차 | 8주차 | 참석율 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| ALOM |:white_check_mark:|:white_check_mark:|:white_check_mark:||||| | 20.00% |
-| 세종 |:white_check_mark:|:white_check_mark:|:white_check_mark:||||| | 20.00% |
-| 아롬 |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|||| | 60.00% |
-| 다롬 |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|||| | 26.67% |
-| 새롬 |:white_check_mark:|:white_check_mark:|:white_check_mark:||||| | 20.00% |
-| 롬 |:white_check_mark:|||||:white_check_mark:|| | 13.33% |
+| ALOM |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:| 100.00% |
+| 세종 |:white_check_mark:|:white_check_mark:|:white_check_mark:||||| | 100.00% |
+| 아롬 |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|||| | 100.00% |
+| 다롬 |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|||| | 100.00% |
+| 새롬 |:white_check_mark:|:white_check_mark:|:white_check_mark:||||| | 100.00% |
+| 롬 |:white_check_mark:|||||:white_check_mark:|| | 100.00% |
