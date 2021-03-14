@@ -69,5 +69,5 @@
 → 기본적으로는 6개월이지만, 더 길게 하고 싶은 경우에는 1년까지 가능합니다.  
 
 ## 🌱아롬 카카오톡 페이지
-http://pf.kakao.com/_xkxfCIxb/chat
+[세종대 아롬 카카오톡 페이지](http://pf.kakao.com/_xkxfCIxb/chat)  
 위 링크를 눌러서 자유롭게 문의해주세요😆
