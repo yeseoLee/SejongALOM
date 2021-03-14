@@ -13,6 +13,6 @@
 * UI/UX 스터디
 
 ## 현재 진행중인 스터디
-* [IOS 스터디](https://github.com/yeseoLee/SejongALOM/blob/main/tudy_ios.md)
+* [IOS 스터디](https://github.com/yeseoLee/SejongALOM/blob/main/study_ios.md)
 
 
