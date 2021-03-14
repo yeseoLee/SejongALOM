@@ -38,10 +38,8 @@
 
 | 참여자 (420) | 1주차 | 2주차 | 3주차 | 4주차 | 5주차 | 6주차 | 7주차 | 8주차 | 참석율 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 0417taehyun |:white_check_mark:|:white_check_mark:|:white_check_mark:|||||||||||| | 20.00% |
-| 1031nice |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark: | 100.00% |
+| 0417taehyun |:white_check_mark:|:white_check_mark:|:white_check_mark:||||| | 20.00% |
 | 2323-coded |:white_check_mark:|:white_check_mark:|:white_check_mark:||||| | 20.00% |
-| 2yeseul |:white_check_mark:|:white_check_mark:||:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:||:white_check_mark:|:white_check_mark: | 86.67% |
 | 372dev |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|||| | 60.00% |
 | 9bini |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|||| | 26.67% |
 | Bik00 |:white_check_mark:|:white_check_mark:|:white_check_mark:||||| | 20.00% |
